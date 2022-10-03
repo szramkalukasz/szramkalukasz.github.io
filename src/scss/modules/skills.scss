@@ -17,6 +17,7 @@
     font-size: 36px;
     line-height: 48px;
     text-align: center;
+    margin: 0 0 64px;
 
     @media (min-width: $desktop) {
       font-size: 48px;
@@ -67,7 +68,7 @@
 }
 
 .skills-section {
-  margin-top: 34px;
+  margin-top: 64px;
 
   &__header {
     font-weight: bold;
