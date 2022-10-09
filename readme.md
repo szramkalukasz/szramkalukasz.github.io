@@ -1,4 +1,4 @@
-![cover]content="https://szramkalukasz.github.io/og-1.png")
+![cover]content="https://szramkalukasz.github.io/og-1.jpg")
 
 # Łukasz Szramka - JUNIOR FRONTEND DEVELOPER
 
